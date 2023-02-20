@@ -13,7 +13,7 @@ i = int(0)
 orel = int(0)
 reshka = int(0)
 while i < n:
-    a = (randint(0,1))
+    a = randint(0,1)
     i += 1
     print(a, end = " ")
     if a == 0:
